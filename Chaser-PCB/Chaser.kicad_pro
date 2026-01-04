@@ -490,7 +490,7 @@
       "plot": "C:/Users/silas/GitHub/LED-Chaser/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Downloads/Chaser.step",
       "svg": "",
       "vrml": ""
     },
