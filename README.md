@@ -4,10 +4,10 @@ A simple LED chaser board using a 555 IC. Ten LEDs will blink in sequence. I cre
 This project is one of my first hardware projects without a microcontroller, and I created it to improve my KICAD skills and gain more experience soldering, as all the parts are through-hole components. I hope that the soldering process goes smoothly!
 
 ## Schematic
-<img src="images/test.png">
+<img src="Images/test.png">
 
 ## PCB
-<img src="images/pcb.png">
+<img src="Images/pcb.png">
 
 ## 3D View
-<img src="images/3Dview.png">
+<img src="Images/3Dview.png">
